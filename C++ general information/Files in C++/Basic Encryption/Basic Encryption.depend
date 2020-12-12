@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603528177 source:c:\users\ramazan\desktop\kod go brrrrrrrrr\c++ go brrr\files in c++\basic encryption\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
